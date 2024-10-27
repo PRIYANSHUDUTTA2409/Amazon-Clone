@@ -1,1 +1,1 @@
-# Amazon-Clone
+A fully functional e-commerce website inspired by Amazon. This project showcases core features of modern e-commerce platforms, including product listings, shopping carts, payment integration, and user authentication.# Amazon-Clone
